@@ -14,7 +14,7 @@ public class Main {
 		//La ultima es el codigo del color
 		Colours yellow= new Colours(1,10,1,1,33);
 		Colours blue= new Colours(10,5,1,11,34);
-		Colours red= new Colours(10,5,1,16,31);
+		Colours red= new Colours(50,5,1,16,31);
 		yellow.start();
 		blue.start();
 		red.start();
